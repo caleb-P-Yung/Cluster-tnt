@@ -1,5 +1,9 @@
 package com.example.clustertnt;
 
+// Copyright (c) 2025 Caleb Pierre Yung
+// This software is released under the MIT License.
+// https://opensource.org/licenses/MIT
+
 import net.minecraft.world.entity.item.PrimedTnt;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.phys.Vec3;
